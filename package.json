@@ -1,0 +1,21 @@
+{
+  "name": "bond-wallet",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "cors": "^2.8.5",
+    "native-base": "^2.12.1",
+    "react-native-image-base64": "0.1.3",
+    "react-native-paper": "2.15.2",
+    "react-native-qrcode": "0.2.7",
+    "react-native-vector-icons": "6.6.0",
+    "react-navigation": "^3.10.1",
+    "socket.io-client": "2.2.0"
+  }
+}
